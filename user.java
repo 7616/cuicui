@@ -4,4 +4,6 @@ public class User{
 
 sout 890
 private String zhazha;
+
+private string name;
 }
